@@ -1,7 +1,7 @@
 
 # KW12
 ## 📖 Was habe ich gelernt?
-- Diese Woche hatten wir einen zweitägigen workshop über Konflikt-Bewältigung im Team. Dort habe ich sehr fiel über Konflikte und Arbeitsarten gelernt. Unter anderem was für eine Person ich in Einem Team-Umfeld bin (Beobachter und Wegbereiter)
+- Diese Woche hatten wir einen zweitägigen Workshop über Konflikt-Bewältigung im Team. Dort habe ich sehr viel über Konflikte und Arbeitsarten gelernt. Unter anderem was für eine Person ich in Einem Team-Umfeld bin (Beobachter und Wegbereiter)
 
 ## 💥 Was waren Herausforderungen?
 - Der 2. Nachmittag des workshops war herausfordernd, da ich eher energielos war und es teilweise etwas schwierig fand zu folgen.
