@@ -1,4 +1,14 @@
 
+# KW18
+## 📖 Was habe ich gelernt?
+- Ich habe im backend ÜK viel über Laravel gelernt
+
+## 💥 Was waren Herausforderungen?
+- Wieder in PHP rein zu kommen war nicht so einfach.
+
+## ⌛ Was möchte ich als nächstes lernen?
+- Bilder in einen editor integrieren mit upload und storage.
+
 # KW12
 ## 📖 Was habe ich gelernt?
 - Diese Woche hatten wir einen zweitägigen Workshop über Konflikt-Bewältigung im Team. Dort habe ich sehr viel über Konflikte und Arbeitsarten gelernt. Unter anderem was für eine Person ich in Einem Team-Umfeld bin (Beobachter und Wegbereiter)
