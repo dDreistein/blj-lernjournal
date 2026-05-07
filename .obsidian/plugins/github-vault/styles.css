@@ -1,0 +1,11 @@
+.github-vault-status-red {
+	color: var(--color-red);
+}
+
+.github-vault-status-green {
+	color: var(--color-green);
+}
+
+.github-vault-status-yellow {
+	color: var(--color-yellow);
+}

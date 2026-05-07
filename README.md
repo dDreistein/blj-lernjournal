@@ -1,4 +1,14 @@
 
+# KW19
+## 📖 Was habe ich gelernt?
+- Vieles über Cleancode
+
+## 💥 Was waren Herausforderungen?
+- Das viele zuhören beim Bildungsblock
+
+## ⌛ Was möchte ich als nächstes lernen?
+- Wie wir unser frontent und backend richtig testen können (Tests Schreiben)
+
 # KW18
 ## 📖 Was habe ich gelernt?
 - Ich habe im backend ÜK viel über Laravel gelernt
