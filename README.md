@@ -1,4 +1,14 @@
 
+# KW22
+## 📖 Was habe ich gelernt?
+- Ich hatte den m335 ük und habe viel über mobile app entwicklung und native features mit capacitor gelernt
+
+## 💥 Was waren Herausforderungen?
+- Das projekt war herausfordernd hat aber spass gemacht.
+
+## ⌛ Was möchte ich als nächstes lernen?
+- Als nächstes werde ich wieder an sesh und dem pdf Generator weitermachen.
+
 # KW19
 ## 📖 Was habe ich gelernt?
 - Vieles über Cleancode
