@@ -1,4 +1,17 @@
 
+# KW25
+## 📖 Was habe ich gelernt?
+- Diese woche habe ich nicht wirklich viel gelernt.
+
+## 💥 Was waren Herausforderungen?
+- Ich musste viele Mergekonflikte lösen, welche beim mergen auf Main aufgetaucht sind
+
+## ⌛ Was möchte ich als nächstes lernen?
+- Wie mann ein Gantt-Diagram im web erstellen kann.
+
+# KW24
+Krank 🤧
+
 # KW22
 ## 📖 Was habe ich gelernt?
 - Ich hatte den m335 ük und habe viel über mobile app entwicklung und native features mit capacitor gelernt
